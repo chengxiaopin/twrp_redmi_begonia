@@ -132,7 +132,7 @@ TW_INCLUDE_CRYPTO_FBE := true
 # TW_CRYPTO_USE_SYSTEM_VOLD := true
 
 # TWRP specific build flags
-TW_DEVICE_VERSION := MIUI_12.5
+TW_DEVICE_VERSION := v5.1-BIGBULL
 
 # UI
 TW_THEME := portrait_hdpi
